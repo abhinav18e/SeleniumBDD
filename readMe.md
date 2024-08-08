@@ -38,7 +38,7 @@ src/
 ### Clone the Repository
 
 bash
-git clone https://github.com/abhinav18e/selenium-hybrid-framework.git
+git clone https://github.com/abhinav18e/seleniumBDD.git
 cd selenium-hybrid-framework
 
 
